@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1497710669 source:/home/josereis/Documentos/UFPI/CG/trabalhos/TRabalhoRasterizacao/main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	"library/structs.h"
+	"library/constantesDefines.h"
+	"library/manipulaPilha.h"
+	"library/transformacoes.h"
+	"library/algoritmosRasterizacao.h"
+	"library/poligonos.h"
+
+1485389827 /usr/include/GL/gl.h
+	"gl_mangle.h"
+	<windows.h>
+	<GL/glext.h>
+
+1485389827 /usr/include/GL/gl_mangle.h
+
+1485389827 /usr/include/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1490126419 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1490126382 /usr/include/features.h
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1490126382 /usr/include/stdc-predef.h
+
+1490126419 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1445634967 /usr/include/GL/glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1445634967 /usr/include/GL/glu_mangle.h
+
+1400929863 /usr/include/GL/glut.h
+	"freeglut_std.h"
+
+1400929863 /usr/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1490126419 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-bsearch.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1490126385 /usr/include/xlocale.h
+
+1490126419 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1497705932 /home/josereis/Documentos/UFPI/CG/trabalhos/TRabalhoRasterizacao/library/structs.h
+
+1497700897 /home/josereis/Documentos/UFPI/CG/trabalhos/TRabalhoRasterizacao/library/constantesDefines.h
+
+1497701066 /home/josereis/Documentos/UFPI/CG/trabalhos/TRabalhoRasterizacao/library/manipulaPilha.h
+
+1497703347 /home/josereis/Documentos/UFPI/CG/trabalhos/TRabalhoRasterizacao/library/algoritmosRasterizacao.h
+
+1497708436 /home/josereis/Documentos/UFPI/CG/trabalhos/TRabalhoRasterizacao/library/poligonos.h
+
+1497710763 /home/josereis/Documentos/UFPI/CG/trabalhos/TRabalhoRasterizacao/library/transformacoes.h
+
